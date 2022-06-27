@@ -1,2 +1,2 @@
-# mangadex
-a manga and digial comic website i'm working on
+# mangawebdesign
+a manga reader i'm working on
